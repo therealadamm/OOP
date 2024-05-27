@@ -7,4 +7,8 @@ class Student{
     
 }
 
+class Department{
+    
+}
+
 
